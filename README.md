@@ -7,7 +7,7 @@ You will need to pip install a number of dependencies:
 >datasets, ftfy, tdqm, langid, spacy, jellyfish, zstandard, pandas, itertools, huggingface_hub
 >and probably more that i've forgotten
 
-Usage:
+#Usage
 The following is a good place to start. You'll need either a local download of a corpus like openwebtext or stream one like fineweb from huggingface
 Tweak the semantic and scrabble scoring to your liking
 
